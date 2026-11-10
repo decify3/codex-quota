@@ -1,0 +1,17 @@
+node_modules/
+research/
+.tools/
+**/bin/
+**/obj/
+native/work/
+dist/
+release/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+data/
+private/
+*.sqlite*
+*.db
